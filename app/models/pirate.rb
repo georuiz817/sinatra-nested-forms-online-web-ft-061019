@@ -9,7 +9,7 @@ def initialize(name,weight,height)
 end
 
 def self.all 
-  @@all 
+  @@all_pirates 
 end
 
 
