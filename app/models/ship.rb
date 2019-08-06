@@ -8,3 +8,7 @@ def initialize(name,type,booty)
   @booty = booty 
   @@all << self
 end
+
+def self.all 
+  @@all 
+end
