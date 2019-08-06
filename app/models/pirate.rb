@@ -8,7 +8,9 @@ def initialize(name,weight,height)
   @all_pirates<< self
 end
 
-
+def self.all 
+  @@all 
+end
 
 
 end
